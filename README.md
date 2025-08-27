@@ -20,6 +20,7 @@ This repository demonstrates:
 
 ### 📖 Learn More
 I’ve written a detailed blog post on Semantic HTML that dives deeper into its benefits and real-world use cases.
+[My Blog](https://semantic-html.hashnode.dev/a-developers-guide-to-implementing-semantic-html-effectively)
 
 ### 🤝 Contributing
 Contributions are welcome! 
